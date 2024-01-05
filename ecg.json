@@ -1,6 +1,6 @@
 
-  { "timestamp": 1641403200000, "value": 0.1 }
-  { "timestamp": 1641403201000, "value": 0.2 }
-  { "timestamp": 1641403202000, "value": 0.15 }
-  { "timestamp": 1641403203000, "value": 0.25 }
-  { "timestamp": 1641403204000, "value": 0.2 }
+  { "timestamp": 1641403200000 "value": 0.1 }
+  { "timestamp": 1641403201000 "value": 0.2 }
+  { "timestamp": 1641403202000 "value": 0.15 }
+  { "timestamp": 1641403203000 "value": 0.25 }
+  { "timestamp": 1641403204000 "value": 0.2 }
